@@ -1,9 +1,0 @@
-    <servlet>
-        <servlet-name>custom-mex</servlet-name>
-        <jsp-file>/aad-join-mex.jsp</jsp-file>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>custom-mex</servlet-name>
-        <url-pattern>/custom-mex</url-pattern>
-    </servlet-mapping>
